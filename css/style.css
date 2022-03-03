@@ -259,15 +259,15 @@ letter-spacing: 0.06em; */ */
   line-height: 1.142;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  /* padding-bottom: 10px; */
+  padding-bottom: 10px;
 
   /* padding: 200px 0 30px; */
   /* width: 692px;
   margin: 0 auto; */
 }
 
-.atributes-list-item-header:not(:last-child) {
-  /* padding-right: 30px; */
+.atributes-list-item:not(:last-child) {
+  padding-right: 30px;
 }
 .atributes-list-item-text {
   font-size: 14px;
